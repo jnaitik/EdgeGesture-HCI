@@ -172,7 +172,7 @@ cd EdgeGesture-HCI
 venv\Scripts\python.exe -m streamlit run src/app.py
 ```
 
-Opens at 
+Opens at **https://huggingface.co/spaces/jnaitik/EdgeGesture-HCI**
 
 ### How to Use
 
